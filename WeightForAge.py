@@ -470,3 +470,4 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+# ─── Created By https://github.com/29Kanyawee ─────────────────────────────────
