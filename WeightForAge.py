@@ -744,7 +744,7 @@ st.markdown(
         <strong>คลินิกสุขภาพเด็กดี(WBC) โรงพยาบาลพรหมคีรี</strong><br>
         <strong>เปิดบริการ วันอังคาร เวลา 08.30-12.00น.<br>
         <strong>กลุ่มงานบริการด้านปฐมภูมิและองค์รวม<br>
-        <strong>โทรศัพท์ 075-396023 &nbsp;|&nbsp; Fax 075-396463
+        <strong> โทรศัพท์ 075-396023 &nbsp;|&nbsp; Fax 075-396463
     </div>
     """,
     unsafe_allow_html=True,
